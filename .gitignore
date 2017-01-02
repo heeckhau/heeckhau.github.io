@@ -1,0 +1,5 @@
+*.pyc
+
+#Urubu
+_build
+images/fotos
